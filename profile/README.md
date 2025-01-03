@@ -7,7 +7,7 @@ YourCraft 是由樱游互娱旗下有块互娱开发并维护的MineCraft小游�
 ### 加入我们
 
 > 我们现已上架网易国服，网易搜索 “YourCraft” 立刻开玩！
-
+<img align="right" height=45% width=45% src="https://github.com/YourCraftMC/.github/img/text_1440p.png" />
 - 官方网站 `https://game.ycraft.cn/`
 - 服务器交流群 `966485310 `
 
