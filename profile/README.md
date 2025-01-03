@@ -1,6 +1,6 @@
 # **YourCraft Games**: _MineCraft MiniGames & Maps_
 
-<img align="right" height=45% width=45% src="https://raw.githubusercontent.com/YourCraftMC/.github/refs/heads/main/img/text_1440p.png" />
+<img align="right" height=45% width=45% src="https://raw.githubusercontent.com/YourCraftMC/.github/refs/heads/main/imgs/text_1440p.png" />
 
 YourCraft 是由樱游互娱旗下有块互娱开发并维护的MineCraft小游戏服务器。
 
